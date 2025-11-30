@@ -29,10 +29,10 @@ jobs:
           username: root
           source: "*"
           target: ${{ vars.SSH_DEPLOY_DOC }}
-      - name: 执行部署脚本
-        uses: appleboy/ssh-action@v1
-        with:
-          host: ${{ secrets.HOST }}
-          key: ${{ secrets.SSH_PRI_KEY }}
-          username: root
-          script: bash /root/mizuki/deploy/deploy.sh
+      # - name: 执行部署脚本
+      #   uses: appleboy/ssh-action@v1
+      #   with:
+      #     host: ${{ secrets.HOST }}
+      #     key: ${{ secrets.SSH_PRI_KEY }}
+      #     username: root
+      #     script: bash /root/mizuki/deploy/deploy.sh
