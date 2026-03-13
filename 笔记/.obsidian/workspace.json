@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d901a9520e9e76c7",
+        "id": "d6c24e363e529ad1",
         "type": "tabs",
         "children": [
           {
-            "id": "497eea9c10a38223",
+            "id": "bd3714f4e902d257",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "新标签页"
             }
           }
         ]
@@ -191,12 +187,57 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "497eea9c10a38223",
+  "active": "bd3714f4e902d257",
   "lastOpenFiles": [
-    "未命名.base",
-    "欢迎.md"
+    "欢迎.md",
+    "创建链接.md",
+    "后端/技术栈/Redis集群.md",
+    "后端/技术栈/MySQL索引失效常见原因分析.md",
+    "后端/技术栈/Designing Data-Intensive Applications/DDIA阅读笔记 - 数据系统基础概述.md",
+    "算法/基础知识/assets/recording-20240921184554-fn5aodw.gif",
+    "算法/基础知识/assets/image_20240409_222758_409-20240920215455-nuz2fiz.png",
+    "算法/基础知识/assets/image_20240409_221825_194-20240920215336-ov3i8jf.png",
+    "算法/基础知识/assets/image-20250420211752-zj9k4ro.png",
+    "算法/基础知识/assets/image-20241120013402-yk3hpqi.png",
+    "算法/基础知识/assets/image-20241120005629-675qjul.png",
+    "算法/基础知识/assets/image-20240921185226-ao97liw.png",
+    "算法/基础知识/assets/image-20241008173947-djr3xm2.png",
+    "算法/基础知识/assets/image-20240921185208-64a3j0n.png",
+    "算法/基础知识/assets/image-20240921184630-7jaslsl.png",
+    "算法/基础知识/滑动窗口.md",
+    "算法/基础知识/栈与队列.md",
+    "算法/基础知识/排序.md",
+    "算法/基础知识/堆基础解析及操作.md",
+    "算法/基础知识/基础速通.md",
+    "算法/基础知识/哈希表.md",
+    "算法/基础知识/双指针（移除元素）.md",
+    "算法/基础知识/动态规划.md",
+    "算法/基础知识/前缀和.md",
+    "算法/基础知识/分治算法.md",
+    "算法/基础知识/二叉树.md",
+    "算法/基础知识/二分查找.md",
+    "算法/基础知识/VSCode 启用 Pretty Printing For GDB 以调试 vector 等 STL 容器.md",
+    "算法/基础知识/assets",
+    "算法/刷题记录/长度最小子数组.md",
+    "算法/刷题记录/螺旋矩阵.md",
+    "算法/刷题记录/有效的字母异位词.md",
+    "算法/刷题记录/反转链表.md",
+    "算法/刷题记录/搜索插入位置.md",
+    "算法/刷题记录/两数之和.md",
+    "算法/刷题记录/刷算法计划.md",
+    "算法/刷题记录/FSR的奇怪题目.md",
+    "算法/刷题记录/assets",
+    "算法/基础知识",
+    "算法/刷题记录",
+    "算法",
+    "后端/技术栈/Designing Data-Intensive Applications/assets",
+    "后端/技术栈/Java集合框架解析",
+    "后端/技术栈/Designing Data-Intensive Applications",
+    "后端/技术栈/assets",
+    "后端/招新平台设计"
   ]
 }

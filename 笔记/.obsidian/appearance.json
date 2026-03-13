@@ -1,1 +1,6 @@
-{}
+{
+  "interfaceFontFamily": "Fira Code",
+  "cssTheme": "Atom",
+  "theme": "obsidian",
+  "accentColor": "#a114ff"
+}
