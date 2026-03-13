@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d6c24e363e529ad1",
+        "id": "2e6147ff893a0ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "bd3714f4e902d257",
+            "id": "f78bf71b63405623",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "后端/技术栈/数据库面经.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "数据库面经"
             }
           }
         ]
@@ -30,19 +34,6 @@
         "id": "3d3ecf689840b5a1",
         "type": "tabs",
         "children": [
-          {
-            "id": "7ac9446c032e0ead",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
           {
             "id": "4f1a3ae69f093371",
             "type": "leaf",
@@ -69,12 +60,26 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "58f07c28811dc7c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "right": {
     "id": "c04da59050e8f602",
@@ -191,13 +196,36 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "bd3714f4e902d257",
+  "active": "58f07c28811dc7c8",
   "lastOpenFiles": [
-    "欢迎.md",
-    "创建链接.md",
-    "后端/技术栈/Redis集群.md",
+    "后端/技术栈/Java 面经.md",
+    "2026-03-14.md",
+    "后端/技术栈/Java集合框架解析.md",
     "后端/技术栈/MySQL索引失效常见原因分析.md",
+    "后端/技术栈/MySQL性能调优.md",
+    "后端/技术栈/Redis集群.md",
+    "后端/技术栈/Redis面经.md",
     "后端/技术栈/Designing Data-Intensive Applications/DDIA阅读笔记 - 数据系统基础概述.md",
+    "后端/技术栈/Zookeeper与分布式理论.md",
+    "后端/技术栈/SpringBoot面经——SpringBean部分.md",
+    "后端/技术栈/Spring AOP核心概念与实现流程.md",
+    "后端/技术栈/Spring Security面经.md",
+    "算法/刷题记录/FSR的奇怪题目.md",
+    "算法/刷题记录.md",
+    "算法/基础知识.md",
+    "算法/刷题记录/长度最小子数组.md",
+    "算法/刷题记录/有效的字母异位词.md",
+    "算法/刷题记录/搜索插入位置.md",
+    "算法/刷题记录/螺旋矩阵.md",
+    "算法/刷题记录/两数之和.md",
+    "算法/刷题记录/反转链表.md",
+    "算法/基础知识/VSCode 启用 Pretty Printing For GDB 以调试 vector 等 STL 容器.md",
+    "算法/基础知识/栈与队列.md",
+    "算法/基础知识/双指针（移除元素）.md",
+    "算法/基础知识/前缀和.md",
+    "算法/基础知识/基础速通.md",
+    "模板",
+    "发布状态.base",
     "算法/基础知识/assets/recording-20240921184554-fn5aodw.gif",
     "算法/基础知识/assets/image_20240409_222758_409-20240920215455-nuz2fiz.png",
     "算法/基础知识/assets/image_20240409_221825_194-20240920215336-ov3i8jf.png",
@@ -208,36 +236,13 @@
     "算法/基础知识/assets/image-20241008173947-djr3xm2.png",
     "算法/基础知识/assets/image-20240921185208-64a3j0n.png",
     "算法/基础知识/assets/image-20240921184630-7jaslsl.png",
-    "算法/基础知识/滑动窗口.md",
-    "算法/基础知识/栈与队列.md",
-    "算法/基础知识/排序.md",
-    "算法/基础知识/堆基础解析及操作.md",
-    "算法/基础知识/基础速通.md",
-    "算法/基础知识/哈希表.md",
-    "算法/基础知识/双指针（移除元素）.md",
-    "算法/基础知识/动态规划.md",
-    "算法/基础知识/前缀和.md",
-    "算法/基础知识/分治算法.md",
-    "算法/基础知识/二叉树.md",
-    "算法/基础知识/二分查找.md",
-    "算法/基础知识/VSCode 启用 Pretty Printing For GDB 以调试 vector 等 STL 容器.md",
     "算法/基础知识/assets",
-    "算法/刷题记录/长度最小子数组.md",
-    "算法/刷题记录/螺旋矩阵.md",
-    "算法/刷题记录/有效的字母异位词.md",
-    "算法/刷题记录/反转链表.md",
-    "算法/刷题记录/搜索插入位置.md",
-    "算法/刷题记录/两数之和.md",
-    "算法/刷题记录/刷算法计划.md",
-    "算法/刷题记录/FSR的奇怪题目.md",
     "算法/刷题记录/assets",
     "算法/基础知识",
     "算法/刷题记录",
     "算法",
     "后端/技术栈/Designing Data-Intensive Applications/assets",
     "后端/技术栈/Java集合框架解析",
-    "后端/技术栈/Designing Data-Intensive Applications",
-    "后端/技术栈/assets",
-    "后端/招新平台设计"
+    "后端/技术栈/Designing Data-Intensive Applications"
   ]
 }

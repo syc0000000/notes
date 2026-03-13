@@ -1,11 +1,9 @@
 ---
-title: SpringBoot面经——SpringBean部分
-date: 2024-09-26T15:52:04+08:00
-lastmod: 2024-10-10T19:08:20+08:00
-tags: [Java,面经]
+aliases: []
+tags: [面经, Java]
+creat: 2026-03-14T01:26:21+08:00
+mod: 2026-03-14T02:04:13+08:00
 ---
-
-# SpringBoot面经——SpringBean部分
 
 ## Spring组成
 

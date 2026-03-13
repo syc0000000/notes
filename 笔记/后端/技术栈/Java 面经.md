@@ -1,11 +1,9 @@
 ---
-title: Java 面经
-date: 2024-10-11T15:04:38+08:00
-lastmod: 2024-11-19T00:47:21+08:00
-tags: [Java,面经]
+aliases: []
+tags: [面经, Java]
+creat: 2026-03-14T01:26:21+08:00
+mod: 2026-03-14T02:10:57+08:00
 ---
-
-# Java 面经
 
 ## JIT
 
@@ -98,9 +96,9 @@ public class Person implements Cloneable{
 
 另外，我们也可以我们可以利用对象的序列化产生克隆对象，然后通过反序列化获取这个对象。
 
-## ==与equals()
+## \==与equals()
 
-==：
+\==：
 
 基本类型：比较值
 

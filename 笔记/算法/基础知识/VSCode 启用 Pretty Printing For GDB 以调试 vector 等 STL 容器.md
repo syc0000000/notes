@@ -1,11 +1,9 @@
 ---
-title: VSCode 启用 Pretty Printing For GDB 以调试 vector 等 STL 容器
-date: 2024-10-09T17:26:47+08:00
-lastmod: 2024-10-09T17:32:09+08:00
+aliases: []
 tags: [算法]
+creat: 2026-03-14T01:26:39+08:00
+mod: 2026-03-14T02:05:49+08:00
 ---
-
-# VSCode 启用 Pretty Printing For GDB 以调试 vector 等 STL 容器
 
 在我使用的gdb版本（`GNU gdb (GDB) 15.2`）中，无需额外配置即可启用。
 
