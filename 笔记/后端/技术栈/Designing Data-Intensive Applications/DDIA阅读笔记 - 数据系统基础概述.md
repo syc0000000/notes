@@ -2,7 +2,7 @@
 aliases: []
 tags: []
 creat: 2026-03-14T01:26:21+08:00
-mod: 2026-03-14T02:02:43+08:00
+mod: 2026-03-15T14:18:58+08:00
 ---
 
 
@@ -72,7 +72,7 @@ mod: 2026-03-14T02:02:43+08:00
 
 使用云服务的优缺点显而易见
 
-![image](https://syc-test111.oss-cn-chengdu.aliyuncs.com/image-20250420154846-2720ewv.png)
+![image 20250420154846 2720ewv](https://nbb-1313023833.cos.ap-chengdu.myqcloud.com/image-20250420154846-2720ewv.png)
 
 使用云服务，本质上是将该软件的运营外包给云提供商，你不用关心基础设施建设，节省了很多运维成本。但缺点是不清楚细节，且受制于人。
 
@@ -145,7 +145,7 @@ mod: 2026-03-14T02:02:43+08:00
 
 可以认为这两个指标有一定的联系
 
-![image](assets/image-20250425003512-edd511w.png)
+![image 20250425003512 edd511w](https://nbb-1313023833.cos.ap-chengdu.myqcloud.com/assets/image-20250425003512-edd511w.png)
 
 如果一个系统能够通过增加计算资源显著提高其最大吞吐量，则称该系统具有**可扩展性**。
 
@@ -159,7 +159,7 @@ mod: 2026-03-14T02:02:43+08:00
 
 “Latency”和“response time”有时被交替使用，本书中，响应时间是E2E时延，而中间过程被这样拆分，如图。
 
-![image](https://syc-test111.oss-cn-chengdu.aliyuncs.com/image-20250425004659-zuzpjn9.png)
+![image 20250425004659 zuzpjn9](https://nbb-1313023833.cos.ap-chengdu.myqcloud.com/image-20250425004659-zuzpjn9.png)
 
 p50更有参考性，p999通常是优化目标，p9999通常不考虑。
 
