@@ -4,7 +4,7 @@ aliases:
 tags:
   - WSL
 creat: 2026-03-15T23:23:22+08:00
-mod: 2026-03-16T01:17:25+08:00
+mod: 2026-03-16T01:19:02+08:00
 publish: "true"
 ---
 
@@ -20,7 +20,7 @@ publish: "true"
 ### 查端口
 一般的 Linux 发行版，在默认情况下可能会占用的主要是 **53** 端口，在 Linux 上可以使用 `ss tuln` 查询：
 ![Pasted image 20260316005956](https://nbb-1313023833.cos.ap-chengdu.myqcloud.com/Pasted%20image%2020260316005956.png)
-我使用的发行版占用了 53 和 5355 两个端口，但5355貌似冲突也不会有影响，处理53就好。
+我使用的发行版占用了 53 和 5355 两个端口，查询到 Windows 只占用了53，处理53就好。
 在Windows上使用 `netstat -ano | findstr 53` 查询进程。
 排查结论是：
 ![Pasted image 20260316010423](https://nbb-1313023833.cos.ap-chengdu.myqcloud.com/Pasted%20image%2020260316010423.png)
