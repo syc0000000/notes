@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b5368045df209476",
+        "id": "924c195c2813b390",
         "type": "tabs",
         "children": [
           {
-            "id": "9cba7aab4f6b3414",
+            "id": "49211b54e45663ee",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "笔记/后端/招新平台设计/简单公告.md",
-                "bFile": "笔记/后端/招新平台设计/简单公告.md",
-                "aRef": ""
+                "file": "后端/技术栈/数据库面经.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 简单公告  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "数据库面经"
             }
           }
         ]
@@ -193,14 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cba7aab4f6b3414",
+  "active": "49211b54e45663ee",
   "lastOpenFiles": [
+    "后端/技术栈/数据库面经.md",
     "后端/技术栈/Designing Data-Intensive Applications/DDIA阅读笔记 - 数据系统基础概述.md",
     "后端/招新平台设计/简单公告.md",
     "后端/技术栈/Spring AOP核心概念与实现流程.md",
     "后端/技术栈/MySQL性能调优.md",
     "后端/技术栈/Java集合框架解析.md",
-    "后端/技术栈/数据库面经.md",
     "后端/技术栈/Redis事务 Lua 与 ACID特性解析.md",
     "后端/技术栈/Spring Security面经.md",
     "后端/技术栈/Redis面经.md",
