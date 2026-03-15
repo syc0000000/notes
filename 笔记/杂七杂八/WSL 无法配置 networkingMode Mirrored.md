@@ -1,8 +1,11 @@
 ---
-aliases: [WSL无法配置networkingMode Mirrored，报错0x8007054f解决方案]
-tags: [WSL]
+aliases:
+  - WSL无法配置networkingMode Mirrored，报错0x8007054f解决方案
+tags:
+  - WSL
 creat: 2026-03-15T23:23:22+08:00
-mod: 2026-03-16T01:16:28+08:00
+mod: 2026-03-16T01:17:25+08:00
+publish: "true"
 ---
 
 ## 现象
