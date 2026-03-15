@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3850c6844f8b8d50",
+        "id": "b5368045df209476",
         "type": "tabs",
         "children": [
           {
-            "id": "026c9336e340c13e",
+            "id": "9cba7aab4f6b3414",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "后端/招新平台设计/简单公告.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "简单公告"
             }
           }
         ]
@@ -189,33 +193,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "026c9336e340c13e",
+  "active": "9cba7aab4f6b3414",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
+    "后端/技术栈/Spring AOP核心概念与实现流程.md",
+    "后端/技术栈/MySQL性能调优.md",
+    "后端/技术栈/Java集合框架解析.md",
     "后端/技术栈/Designing Data-Intensive Applications/DDIA阅读笔记 - 数据系统基础概述.md",
+    "后端/技术栈/数据库面经.md",
+    "后端/技术栈/Redis事务 Lua 与 ACID特性解析.md",
+    "后端/技术栈/Spring Security面经.md",
+    "后端/技术栈/Redis面经.md",
+    "算法/基础知识/二分查找.md",
+    "新建 文本文档.txt",
     "后端/技术栈/Designing Data-Intensive Applications/assets/image-20250425003512-edd511w.png",
     "后端/技术栈/Designing Data-Intensive Applications/assets",
-    "后端/技术栈/Redis面经.md",
     "算法/基础知识/前缀和.md",
     "后端/招新平台设计/简单公告.md",
     "后端/招新平台设计/RBAC权限管理.md",
     "后端/招新平台设计/邮箱验证码.md",
     "后端/招新平台设计/雪花ID.md",
-    "算法/基础知识/二分查找.md",
     "算法/基础知识/双指针（移除元素）.md",
     "后端/技术栈/Java 面经.md",
     "后端/技术栈/JVM面经.md",
     "后端/技术栈/MySQL索引失效常见原因分析.md",
-    "后端/技术栈/Java集合框架解析.md",
-    "后端/技术栈/Redis事务 Lua 与 ACID特性解析.md",
-    "后端/技术栈/MySQL性能调优.md",
-    "后端/技术栈/数据库面经.md",
     "2026-03-14.md",
     "后端/技术栈/Redis集群.md",
     "后端/技术栈/Zookeeper与分布式理论.md",
     "后端/技术栈/SpringBoot面经——SpringBean部分.md",
-    "后端/技术栈/Spring AOP核心概念与实现流程.md",
-    "后端/技术栈/Spring Security面经.md",
     "算法/刷题记录/FSR的奇怪题目.md",
     "算法/刷题记录.md",
     "算法/基础知识.md",
@@ -235,7 +239,6 @@
     "算法/基础知识",
     "算法/刷题记录",
     "算法",
-    "后端/技术栈/Java集合框架解析",
-    "后端/技术栈/Designing Data-Intensive Applications"
+    "后端/技术栈/Java集合框架解析"
   ]
 }
