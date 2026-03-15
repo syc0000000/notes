@@ -1,14 +1,10 @@
 ---
-aliases:
-  - WSL无法配置networkingMode Mirrored，报错0x8007054f解决方案
-tags:
-  - WSL
+aliases: [WSL无法配置networkingMode Mirrored，报错0x8007054f解决方案]
+tags: [WSL]
 creat: 2026-03-15T23:23:22+08:00
-mod: 2026-03-16T01:19:02+08:00
+mod: 2026-03-16T01:21:24+08:00
 publish: "true"
 ---
-
-## 现象
 
 ## 原因
 根据 [Error code: CreateInstance/CreateVm/ConfigureNetworking/0x8007054f · Issue #12351 · microsoft/WSL](https://github.com/microsoft/WSL/issues/12351)，有三种可能：
