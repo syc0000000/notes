@@ -11,14 +11,14 @@
             "id": "9cba7aab4f6b3414",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "后端/招新平台设计/简单公告.md",
-                "mode": "source",
-                "source": false
+                "aFile": "笔记/后端/招新平台设计/简单公告.md",
+                "bFile": "笔记/后端/招新平台设计/简单公告.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "简单公告"
+              "icon": "diff",
+              "title": "Diff: 简单公告  (Working Tree)"
             }
           }
         ]
@@ -195,10 +195,11 @@
   },
   "active": "9cba7aab4f6b3414",
   "lastOpenFiles": [
+    "后端/技术栈/Designing Data-Intensive Applications/DDIA阅读笔记 - 数据系统基础概述.md",
+    "后端/招新平台设计/简单公告.md",
     "后端/技术栈/Spring AOP核心概念与实现流程.md",
     "后端/技术栈/MySQL性能调优.md",
     "后端/技术栈/Java集合框架解析.md",
-    "后端/技术栈/Designing Data-Intensive Applications/DDIA阅读笔记 - 数据系统基础概述.md",
     "后端/技术栈/数据库面经.md",
     "后端/技术栈/Redis事务 Lua 与 ACID特性解析.md",
     "后端/技术栈/Spring Security面经.md",
@@ -208,7 +209,6 @@
     "后端/技术栈/Designing Data-Intensive Applications/assets/image-20250425003512-edd511w.png",
     "后端/技术栈/Designing Data-Intensive Applications/assets",
     "算法/基础知识/前缀和.md",
-    "后端/招新平台设计/简单公告.md",
     "后端/招新平台设计/RBAC权限管理.md",
     "后端/招新平台设计/邮箱验证码.md",
     "后端/招新平台设计/雪花ID.md",
