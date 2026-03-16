@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂七杂八/WSL 无法配置 networkingMode Mirrored.md",
+                "file": "后端/技术栈/Redis 事务 Lua 与 ACID 特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WSL 无法配置 networkingMode Mirrored"
+              "title": "Redis 事务 Lua 与 ACID 特性"
             }
           }
         ]
@@ -190,12 +190,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1eda79713b72eda9",
   "lastOpenFiles": [
+    "后端/技术栈/Redis 事务 Lua 与 ACID 特性.md",
+    "后端/Java/注解.md",
+    "算法/基础知识/动态规划.md",
     "杂七杂八/WSL 无法配置 networkingMode Mirrored.md",
     "Pasted image 20260316005956.png",
     "Pasted image 20260316010933.png",
@@ -227,8 +229,6 @@
     "后端/技术栈/数据库面经.md",
     "杂七杂八",
     "后端/技术栈/Designing Data-Intensive Applications/DDIA阅读笔记 - 数据系统基础概述.md",
-    "后端/招新平台设计/简单公告.md",
-    "后端/技术栈/Spring AOP核心概念与实现流程.md",
     "新建 文本文档.txt",
     "后端/技术栈/Designing Data-Intensive Applications/assets/image-20250425003512-edd511w.png",
     "后端/技术栈/Designing Data-Intensive Applications/assets",

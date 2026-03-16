@@ -1,8 +1,9 @@
 ---
-aliases: []
-tags: []
+aliases: [Redis事务与Lua的关系？Redis到底支持ACID吗？]
+tags: [Redis]
 creat: 2026-03-14T01:26:21+08:00
-mod: 2026-03-14T02:03:58+08:00
+mod: 2026-03-17T00:02:09+08:00
+publish: "true"
 ---
 
 要讨论Redis事务，首先要明确讨论的是什么，我们实质上在讨论“Redis有没有操作能实现ACID，或者部分实现ACID”，在这个定义的基础上，可以找到两个知识点：
