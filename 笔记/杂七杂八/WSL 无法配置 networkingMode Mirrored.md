@@ -2,9 +2,18 @@
 aliases: [WSL无法配置networkingMode Mirrored，报错0x8007054f解决方案]
 tags: [WSL]
 creat: 2026-03-15T23:23:22+08:00
-mod: 2026-03-16T01:21:24+08:00
+mod: 2026-03-22T23:33:50+08:00
 publish: "true"
 ---
+
+> 更新：
+> 把该修的问题都修了之后依然可能复现，可能当时好了，过一段时间又坏了，估计要重装电脑才能解决了。
+> 目前的方案是回到NAT模式，打开自动代理和自动端口映射之后实际上跟 Mirrored 也没区别了。
+> ![Pasted image 20260322232928](https://nbb-1313023833.cos.ap-chengdu.myqcloud.com/Pasted%20image%2020260322232928.png)
+> 然后配套修改一下代理，通过局域网地址使用本地代理而不是使用localhost，这样WSL才能连上。
+> 在Clash Verge上，这样设置：
+> ![Pasted image 20260322233237](https://nbb-1313023833.cos.ap-chengdu.myqcloud.com/Pasted%20image%2020260322233237.png)
+
 
 ## 原因
 根据 [Error code: CreateInstance/CreateVm/ConfigureNetworking/0x8007054f · Issue #12351 · microsoft/WSL](https://github.com/microsoft/WSL/issues/12351)，有三种可能：
